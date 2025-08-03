@@ -24,6 +24,6 @@ jobs:
 
       - name: Run main from from repor
         run: |
-            - ls -l
-            - pwd
-            - bash main
+             ls -l
+             pwd
+             bash main
